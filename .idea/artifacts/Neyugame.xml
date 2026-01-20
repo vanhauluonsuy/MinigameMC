@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Neyugame">
+    <output-path>$PROJECT_DIR$/out/artifacts/Neyugame</output-path>
+    <root id="archive" name="Neyugame.jar">
+      <element id="module-output" name="neyugame" />
+    </root>
+  </artifact>
+</component>

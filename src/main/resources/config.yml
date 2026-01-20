@@ -1,0 +1,25 @@
+use-mysql: false
+
+# SQLite config
+sqlite:
+  file: "neyudatabase.db"
+
+# MySQL config
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "minecraft"
+  username: "root"
+  password: ""
+  table: "neyugame_balances"
+
+# Cấu hình vật phẩm bán
+sell-item: "SNOWBALL"
+item-price: 10.0 # Giá mỗi quả cầu tuyết
+
+# Tỷ lệ: 1 xu Neyu = bao nhiêu tiền Vault
+conversion-rate: 1.0
+
+# Sự kiện nhân tiền
+happy-hour-enabled: false
+happy-hour-multiplier: 2.0
