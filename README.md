@@ -1,5 +1,13 @@
 # ❄️ Neyugame – Christmas Snowball Minigame
 
+![Minecraft](https://img.shields.io/badge/Minecraft-1.20+-brightgreen)
+![Paper](https://img.shields.io/badge/Platform-Paper%20%7C%20Spigot-blue)
+![PlaceholderAPI](https://img.shields.io/badge/Dependency-PlaceholderAPI-orange)
+![License](https://img.shields.io/badge/License-Custom-lightgrey)
+![Author](https://img.shields.io/badge/Author-vanhauluonsuy-purple)
+
+---
+
 **Name:** Neyugame  
 **Author:** vanhauluonsuy
 **Version:** 1.0  
